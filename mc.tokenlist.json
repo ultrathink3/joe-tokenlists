@@ -11,7 +11,7 @@
   "version": {
     "major": 228,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tokens": [
     {
@@ -3056,6 +3056,17 @@
       "symbol": "rsETH",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x4186BFC76E2E237523CBC30FD220FE055156b41F/logo.png",
       "tags": []
+    },
+    {
+      "chainId": 43114,
+      "address": "0xA1f0BE6a2E7a885f95ed9B971127b6f70559F409",
+      "decimals": 18,
+      "name": "TetherCat USDT.C",
+      "symbol": "USDT.C",
+      "tags": [
+        "Stablecoins"
+      ],
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA1f0BE6a2E7a885f95ed9B971127b6f70559F409/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
